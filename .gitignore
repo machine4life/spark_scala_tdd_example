@@ -1,0 +1,11 @@
+.idea/
+spark-warehouse/
+target/
+*.class
+*.iml
+*.ipr
+*.iws
+.idea
+out
+tmp/
+
