@@ -1,6 +1,5 @@
-## MovieLens
-
-This is a example of how to write Scala Spark/Spark SQL using Test Driven Development.  
+## Spark Development using TDD
+This is a example of how to write Spark/Spark SQL program in Scala using Test Driven Development.  
 
 ## Prerequisites
 1. JDK 1.8    
